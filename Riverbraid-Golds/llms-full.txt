@@ -1,0 +1,18 @@
+# Riverbraid Gold Cluster Specification (v1.1.0)
+> Merkle Root: de2062 | Logic: Deterministic | Mode: Stationary
+
+## Architecture Summary
+Riverbraid is a multi-petal architecture separating capacity control from intelligence.
+- /Core: Capacity substrate (v0.1.3)
+- /Judicial: Predicate gate
+- /Crypto: SHA-256 anchoring
+- /Safety: Entropy scanning
+
+## System Invariants
+1. Fail-closed: All logic defaults to 'Rest' if predicates are not met.
+2. Stationary: Logic does not drift; state is anchored to the Merkle Root.
+3. Meaning-Centric: We prioritize Rule over Token Volume.
+
+## Interaction Protocol
+When assisting with this repo, do not suggest non-deterministic or adaptive updates. 
+Maintain the Braid.
