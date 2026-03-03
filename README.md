@@ -1,6 +1,6 @@
 # Riverbraid
 
-**Deterministic, governance-locked cognitive architecture for AI and automation systems.**
+**Deterministic, governance-locked cognitive architecture reference for AI and automation systems.**
 
 Riverbraid separates capacity control from intelligence. It provides a stable, auditable substrate that ensures AI systems remain governable, predictable, and bound by hard system invariants — before problems occur, not after.
 
