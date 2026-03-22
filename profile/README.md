@@ -46,4 +46,4 @@ The Gold Cluster is a suite of deterministic, fail-closed Python modules impleme
 ## Cluster Status
 
 > Invariant State: `STATIONARY` | Braid: `CLOSED-LOOP` | Merkle Root: `de2062`  
-> Release: [Gold Cluster v1.2.0](https://github.com/Riverbraid/.github/releases/tag/v1.2.0)
+> Release: 
