@@ -1,49 +1,18 @@
-# Riverbraid
+# Riverbraid Global Anchor (v1.5.0-Genesis)
 
-**Deterministic, governance-locked cognitive architecture reference for AI and automation systems.**
+**Merkle Root:** `de2062`  
+**Status:** `Integration_Rest`  
+**Anchor Point:** `Go 44`
 
-Riverbraid separates capacity control from intelligence. It provides a stable, auditable substrate that ensures AI systems remain governable, predictable, and bound by hard system invariants — before problems occur, not after.
+## 1. The Coupling Test
+Information is valid only if it demonstrates a deterministic coupling between intent and substrate. If the physical state of the 15-petal cluster (GitHub mirrors) deviates from the logic triad (`gate.mjs`, `heartbeat.mjs`, `run-vectors.cjs`), the system must **Fail-Closed**.
 
------
+## 2. Scale Separation Gate
+Macro-level architectural decisions (e.g., Genesis Overwrite) must be isolated from Micro-level execution errors. Errors at the petal level do not invalidate the Core, provided the Merkle Root remains physically verified.
 
-## The Core Idea
+## 3. Linear vs. Nonlinear Tags
+- **Linear (Hygiene):** Sequential execution of `Purge -> Inject -> Push`.
+- **Nonlinear (Coherence):** The simultaneous alignment of all 15 repositories to the `de2062` frequency.
 
-Most AI systems fail not because they lack capability, but because they lack **capacity awareness**. They over-engage under load, escalate when they should pause, and mix control logic with semantic interpretation in ways that make them ungovernable at scale.
-
-Riverbraid addresses this with a clean architectural separation: a deterministic control primitive that decides *how much* a system should engage, completely independent of *what* it does when it engages.
-
------
-
-## The Gold Cluster — v1.1.0
-
-The Gold Cluster is a suite of deterministic, fail-closed Python modules implementing the **Absolute V2 (Refined) Standard**. All petals are stationary, anchored, and independently auditable.
-
-|Repository                                                                              |Signal                   |Purpose                                                              |
-|----------------------------------------------------------------------------------------|-------------------------|---------------------------------------------------------------------|
-|[Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core)                        |Root                     |Capacity control substrate — the governance-locked decision primitive|
-|[Riverbraid-Golds](https://github.com/Riverbraid/Riverbraid-Golds)                      |—                        |Cluster manifest and Absolute V2 pipeline orchestration              |
-|[Riverbraid-Crypto-Gold](https://github.com/Riverbraid/Riverbraid-Crypto-Gold)          |`MECHANICAL_HONESTY`     |SHA-256 state anchoring — cryptographic proof of stationary state    |
-|[Riverbraid-Judicial-Gold](https://github.com/Riverbraid/Riverbraid-Judicial-Gold)      |`LEAST_ENTROPY`          |Fail-closed predicate governance — deterministic ALLOW/DENY          |
-|[Riverbraid-Refusal-Gold](https://github.com/Riverbraid/Riverbraid-Refusal-Gold)        |`BOUNDARY_LOGIC`         |Reason-coded boundary enforcement — refusals as protocol output      |
-|[Riverbraid-Memory-Gold](https://github.com/Riverbraid/Riverbraid-Memory-Gold)          |`MEANING_CENTRIC`        |Signal-gated persistence — meaning over token volume                 |
-|[Riverbraid-Integration-Gold](https://github.com/Riverbraid/Riverbraid-Integration-Gold)|`SEMANTIC_BRIDGE`        |Mode enactment — the bridge between decision and action              |
-|[Riverbraid-Harness-Gold](https://github.com/Riverbraid/Riverbraid-Harness-Gold)        |`STATIONARY_STATE_ACTIVE`|Fail-closed verification harness — cluster-wide integrity audits     |
-
------
-
-## Design Principles
-
-**Deterministic over adaptive.** Control logic is frozen and auditable. It does not learn, drift, or personalize.
-
-**Fail-closed over fail-open.** If a system cannot verify its state, it halts. There is no partial execution.
-
-**Separation of concerns.** Capacity control, governance, persistence, and enactment are distinct responsibilities handled by distinct modules. Intelligence lives outside the cluster.
-
-**Governance-first.** Changes to core logic require versioning, new audit hashes, and explicit approval. The boundary is the product.
-
------
-
-## Cluster Status
-
-> Invariant State: `STATIONARY` | Braid: `CLOSED-LOOP` | Merkle Root: `de2062`  
-> Release: [Gold Cluster v1.2.0](https://github.com/Riverbraid/.github/releases/tag/v1.2.0)
+## 4. Stationary State Invariant
+The system achieved a stationary state on **2026-03-29T12:28Z**. Any modification to the logical substrate without a corresponding GPG-signed attestation is classified as **Entropy** and must be purged.
