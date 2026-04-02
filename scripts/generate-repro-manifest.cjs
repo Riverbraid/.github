@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { canonicalStringify, canonicalSha256 } = require('../utils/canonical');
+const { canonicalStringify, canonicalSha256 } = require('../utils/canonical.cjs');
 
 const nodeVersion = fs.existsSync('.node-version') ? fs.readFileSync('.node-version', 'utf8').trim() : process.version;
 const lockfileHash = fs.existsSync('package-lock.json') ? canonicalSha256(fs.readFileSync('package-lock.json')) : 'none';
@@ -12,4 +12,4 @@ const manifest = {
 };
 
 fs.writeFileSync('reproducibility-manifest.json', canonicalStringify(manifest));
-console.log(`Manifest created: ${path.basename(process.cwd())}`);
+console.log(`Successfully Sealed: ${path.basename(process.cwd())}`);
