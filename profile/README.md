@@ -1,7 +1,3 @@
-Absolutely — here’s a full landing page draft you can use for the .github repo or website.
-
-⸻
-
 Riverbraid
 
 Build AI systems that stay coherent under pressure.
