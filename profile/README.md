@@ -1,7 +1,12 @@
-﻿# Riverbraid
-> **The Architecture of Relational Intelligence**
+# Riverbraid
+> Build AI systems that stay consistent, truthful, and in sync with reality.
 
-Riverbraid is a conceptual and technical framework for deterministic AI coherence, sovereign data persistence, and relational intelligence. It operates on the principle of **Mechanical Honesty**—where law and machine are the same object.
+Riverbraid is a framework for creating AI that:
+- remembers accurately
+- refuses to drift or hallucinate
+- maintains integrity between data, logic, and execution
+
+It operates on the principle of Mechanical Honesty — where law and machine are the same object.
 
 ## The 29-Node Braid
 The ecosystem is a distributed architecture of 29 specialized nodes, anchored by:
