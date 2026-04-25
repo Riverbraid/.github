@@ -1,8 +1,8 @@
-Riverbraid
+**Riverbraid**
 
 Build AI systems that stay coherent under pressure.
 
-Riverbraid is an architecture for deterministic AI coherence, sovereign data persistence, and relational intelligence.
+**Riverbraid is an architecture for deterministic AI coherence, sovereign data persistence, and relational intelligence.**
 
 It helps AI systems maintain alignment between:
 
@@ -18,7 +18,7 @@ It stops, reports, and preserves truth.
 
 ⸻
 
-Why Riverbraid exists
+**Why Riverbraid exists**
 
 AI systems are becoming more powerful, but they are still fragile in ways that matter:
 
@@ -36,7 +36,7 @@ By enforcing structure.
 
 ⸻
 
-What Riverbraid does
+**What Riverbraid does**
 
 Riverbraid provides a modular framework for building AI systems that can:
 
@@ -48,13 +48,13 @@ Riverbraid provides a modular framework for building AI systems that can:
 * separate safe action from unsafe action
 * preserve provenance, state, and refusal logic
 
-In simple terms:
+**In simple terms:**
 
 Riverbraid helps AI know when it is coherent — and stop when it is not.
 
 ⸻
 
-Core Principle: Mechanical Honesty
+**Core Principle: Mechanical Honesty**
 
 Mechanical Honesty means the system cannot merely say it is aligned.
 
@@ -62,29 +62,29 @@ It must be structurally aligned.
 
 If the desired state and actual state diverge, the system must acknowledge that divergence.
 
-No pretending.
-No silent drift.
-No false confidence.
+**No pretending.**
+**No silent drift.**
+**No false confidence.**
 
 ⸻
 
-The 29-Node Braid
+**The 29-Node Braid**
 
 Riverbraid is organized as a distributed ecosystem of specialized nodes.
 
 Each node handles a specific part of coherence, memory, safety, interface, action, or verification.
 
-Key anchors include:
+**Key anchors include:**
 
-Riverbraid-Gold-V2
+**Riverbraid-Gold-V2**
 
 The central root of trust and command suite.
 
-riverbraid-tsh
+**riverbraid-tsh**
 
 A Rust-based deterministic logic engine.
 
-Riverbraid-Integrity-Floors
+**Riverbraid-Integrity-Floors**
 
 The instrumentation and governance layer for enforcing system integrity.
 
@@ -93,7 +93,7 @@ a system where each strand reinforces the others.
 
 ⸻
 
-Core Invariants
+**Core Invariants**
 
 1. Stationary State
 
@@ -125,7 +125,7 @@ Better no output than dishonest output.
 
 ⸻
 
-Who Riverbraid is for
+**Who Riverbraid is for**
 
 Riverbraid is for builders working on:
 
@@ -138,25 +138,25 @@ Riverbraid is for builders working on:
 * human-AI relational continuity
 * safety-first AI infrastructure
 
-It is especially for people who care about one question:
+**It is especially for people who care about one question:**
 
-Can this system prove the conditions under which it is speaking?
+**Can this system prove the conditions under which it is speaking?**
 
 ⸻
 
-What makes Riverbraid different
+**What makes Riverbraid different**
 
 Most AI systems optimize for output.
 
 Riverbraid optimizes for coherence.
 
-That means the goal is not just:
+**That means the goal is not just:**
 
 * faster responses
 * smoother interfaces
 * more impressive language
 
-The goal is:
+**The goal is:**
 
 * truthful state
 * durable memory
@@ -168,7 +168,7 @@ Riverbraid treats trust as architecture, not branding.
 
 ⸻
 
-Current Status
+**Current Status**
 
 Riverbraid is an active, evolving architecture.
 
@@ -195,11 +195,11 @@ It is a braid.
 
 ⸻
 
-Start Here
+**Start Here**
 
-New to Riverbraid?
+**New to Riverbraid?**
 
-Begin with:
+**Begin with:**
 
 1. Riverbraid-Gold-V2 — root command layer
 2. riverbraid-tsh — deterministic logic engine
@@ -209,11 +209,11 @@ These three repos give the clearest view of the system’s core.
 
 ⸻
 
-The Short Version
+**The Short Version**
 
 Riverbraid is a framework for building AI systems that do not lose themselves.
 
-It gives AI architecture a spine:
+**It gives AI architecture a spine:**
 
 * memory with integrity
 * action with boundaries
@@ -223,4 +223,4 @@ It gives AI architecture a spine:
 
 ⸻
 
-Relational Intelligence. Sovereign Persistence. Deterministic Flow.
+**Relational Intelligence. Sovereign Persistence. Deterministic Flow.**
