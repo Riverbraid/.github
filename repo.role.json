@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": ".github",
+  "status": "parked",
+  "defines_protocol": false,
+  "protocol_authority": false,
+  "required_for_core_verification": false,
+  "active_behavior_claimed": false
+}
