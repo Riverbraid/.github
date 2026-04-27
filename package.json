@@ -1,8 +1,9 @@
 {
-    "private":  true,
-    "name":  "@riverbraid/github-meta",
-    "version":  "1.0.0",
-    "scripts":  {
-                    "test":  "node verify-parked.cjs"
-                }
+  "private": true,
+  "name": "@riverbraid/github-meta",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npm run verify:feature-flow && node verify-parked.cjs",
+    "verify:feature-flow": "node verify-feature-flow.cjs"
+  }
 }
