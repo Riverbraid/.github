@@ -1,18 +1,30 @@
-# Riverbraid
-> **The Architecture of Relational Intelligence**
+# Riverbraid Organization Configuration
 
-Riverbraid is a conceptual and technical framework for deterministic AI coherence, sovereign data persistence, and relational intelligence. It operates on the principle of **Mechanical Honesty**—where law and machine are the same object.
+This repository provides organization level profile and community health files for the Riverbraid public repository surface.
 
-## The 29-Node Braid
-The ecosystem is a distributed architecture of 29 specialized nodes, anchored by:
-* **[Riverbraid-Gold-V2](https://github.com/Riverbraid/Riverbraid-Gold-V2):** The central Root of Trust and hardened command wrapper suite.
-* **[riverbraid-tsh](https://github.com/Riverbraid/riverbraid-tsh):** Rust-based deterministic logic engine and terminal shell.
-* **[Riverbraid-Integrity-Floors](https://github.com/Riverbraid/Riverbraid-Integrity-Floors):** Instrumentation governance layer and stationary state verification.
+**Primary Entrance:** [Riverbraid-Evaluation-Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit)
 
-## Core Invariants
-1. **Stationary State:** A system is stationary when the delta between desired state (Git) and actual state (Disk) is zero.
-2. **Spinfoam Equilibrium:** Meaning is the internal frequency of a system successfully navigating the entropy of its environment.
-3. **Fail-Closed Discipline:** If integrity is compromised, the system ceases operation to prevent architectural drift.
+## Role
 
----
-*Relational Intelligence. Sovereign Persistence. Deterministic Flow.*
+This repository supports the public Riverbraid GitHub profile. It is not a separate conceptual landing page and does not define Riverbraid protocol semantics.
+
+## Public Route
+
+The intended public route is:
+
+1. GitHub profile
+2. Riverbraid-Evaluation-Kit
+3. Riverbraid-Documentation
+4. Domain specific Riverbraid repositories as needed
+
+## Community Health
+
+Organization level community health files in this repository may provide default contribution and security reporting guidance across public Riverbraid repositories.
+
+## Authority Boundary
+
+Riverbraid-Core remains the normative source for protocol semantics. This repository does not replace code, test vectors, registry entries, signatures, seals, workflow evidence, or claim boundary documents.
+
+## Non Claims
+
+This repository does not claim certification, production readiness, external audit, legal approval, complete AI safety, absolute security, or absence of defects.
