@@ -12,7 +12,7 @@ It does not mean every repository is production ready, independently audited, or
 
 ## Reporting security concerns
 
-If you identify a security concern, open a GitHub issue in the most relevant repository using a minimal, factual report.
+To report a security vulnerability, please open an issue in the most relevant repository or contact the maintainers through the profile channels. We follow a fail closed response posture.
 
 If the concern affects the public Evaluation Kit or the canonical verification floor, use:
 
