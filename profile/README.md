@@ -1,37 +1,21 @@
-# Riverbraid
+# Riverbraid: The Deterministic Integrity Floor for AI Governance
 
-Riverbraid is an open source deterministic integrity floor for AI governance.
-
-It is designed to make structure, authority, and drift visible before trust is granted.
+Riverbraid is an open source verification floor for making structure, authority, and drift visible before trust is granted.
 
 ## Start here
 
-The preferred public entry point is:
+| Path | Repository | Purpose |
+|---|---|---|
+| 🚀 Start Here | [Riverbraid-Evaluation-Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit) | Run the public proof path. |
+| 📖 Read More | [Riverbraid-Documentation](https://github.com/Riverbraid/Riverbraid-Documentation) | Understand concepts, boundaries, and the system map. |
+| ⚖️ Protocol Source | [Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core) | Inspect the normative protocol source. |
+| 🧭 Registry | [Riverbraid-Golds](https://github.com/Riverbraid/Riverbraid-Golds) | See the coordinated repository surface. |
+| 🛡️ Safety Example | [Riverbraid-Safety-Gold](https://github.com/Riverbraid/Riverbraid-Safety-Gold) | Review a bounded safety verification surface. |
+| ✨ Visual Demo | [Riverbraid-Gold-V2](https://github.com/Riverbraid/Riverbraid-Gold-V2) | See the integrity concept visually. |
 
-[Riverbraid-Evaluation-Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit)
+> [!IMPORTANT]
+> Riverbraid does not claim certification, legal approval, production readiness, external audit, complete AI safety, absolute security, or absence of defects.
 
-The Evaluation Kit provides a public starter surface for inspecting Riverbraid's pinned governance floor.
+## Public route
 
-## What Riverbraid provides
-
-- A pinned 30 repository registry
-- Fail closed verification posture
-- Inspectable governance surfaces
-- Evidence boundaries around what is and is not proven
-- Public documentation for builders, reviewers, and researchers
-
-## What Riverbraid does not claim
-
-Riverbraid does not claim certification, legal approval, production readiness, absolute security, external audit, complete AI safety, adoption, or absence of defects.
-
-## Primary surfaces
-
-- [Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core)
-- [Riverbraid-Golds](https://github.com/Riverbraid/Riverbraid-Golds)
-- [Riverbraid-Documentation](https://github.com/Riverbraid/Riverbraid-Documentation)
-- [Riverbraid-Safety-Gold](https://github.com/Riverbraid/Riverbraid-Safety-Gold)
-- [Riverbraid-Refusal-Gold](https://github.com/Riverbraid/Riverbraid-Refusal-Gold)
-
-## Boundary
-
-Riverbraid is a starting floor for inspection and adaptation. Any use, fork, extension, or deployment requires independent review.
+Profile → Evaluation Kit → Documentation → Core or domain repository as needed.
