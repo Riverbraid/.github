@@ -1,4 +1,4 @@
-# Riverbraid: The Deterministic Integrity Floor for AI Governance
+# Riverbraid: A Deterministic Integrity Floor for AI Governance
 
 Riverbraid is an open source verification floor for making structure, authority, and drift visible before trust is granted.
 
