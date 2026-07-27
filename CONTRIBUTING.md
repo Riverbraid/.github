@@ -35,7 +35,7 @@ Check whether the change affects:
 
 If it touches any of those, clearly state the impact and required authority in the pull request body.
 
-Use the default pull-request template where GitHub applies it.
+Use `PULL_REQUEST_TEMPLATE.md` where GitHub applies the shared account default.
 
 ## Pull request scope
 
@@ -54,21 +54,20 @@ A good pull request states:
 
 ## Inbound rights and licensing
 
-Riverbraid does not currently require a separate Contributor License Agreement or Developer Certificate of Origin by default.
+`INBOUND_CONTRIBUTION_RIGHTS.md` is the shared current policy candidate for authorship, licensing, third-party material, generated content, provenance, and acceptance boundaries.
 
-By submitting a contribution, you represent that:
+Its current posture is:
 
-- you have the right to submit the contributed material;
-- the contribution may be distributed under the license already declared by the target repository;
-- third-party material and its license are identified;
-- confidential information, secrets, personal data, and restricted material are not included;
-- material AI assistance is disclosed when it materially affects provenance, licensing, or reviewability.
-
-Contributors retain any copyright they hold. Submission does not transfer Riverbraid authority, maintainer status, endorsement, or authorship of unrelated work.
+- no separate Contributor License Agreement is required by default;
+- no Developer Certificate of Origin sign-off is required by default;
+- contributors must have the right to submit their material;
+- accepted contributions are provided under the target repository's applicable license unless that repository declares a narrower policy;
+- third-party and materially tool-generated inputs must be disclosed where relevant;
+- submission or merge does not transfer Riverbraid governance or maintainer authority.
 
 If the target repository has no clear license, or the contribution cannot be distributed under that license, stop and open a licensing issue before submitting the change.
 
-This section is a project contribution policy, not legal advice or a completed legal review.
+This policy is not legal advice or a completed legal review.
 
 ## Issues
 
