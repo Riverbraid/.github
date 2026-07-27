@@ -37,10 +37,12 @@ Riverbraid user profile → Evaluation Kit → Documentation → Core or domain 
 - `CONTRIBUTING.md` — review posture and links to the dedicated rights policy.
 - `INBOUND_CONTRIBUTION_RIGHTS.md` — authorship, licensing, third-party material, generated content, and acceptance boundaries.
 - `FORKING.md` — fork identity, evidence continuity, and non-inherited claims.
+- `RELEASE_AND_COMPATIBILITY.md` — release identity, compatibility classes, supersession, rollback, and supply-chain boundaries.
+- `SUPPORTED_VERSIONS.md` — exact source identity, current support posture, freshness, and non-support rules.
 - `SECURITY.md` — fail-closed sensitive-reporting route and private-intake limitations.
 - `SUPPORT.md` — bounded routing and availability limits.
 - `CODE_OF_CONDUCT.md` — conduct expectations.
-- `PULL_REQUEST_TEMPLATE.md` — evidence, authority, claim, rollback, security, contributor-rights, and F0–F4 checks.
+- `PULL_REQUEST_TEMPLATE.md` — evidence, authority, claim, dependency, rollback, security, contributor-rights, and F0–F4 checks.
 
 GitHub may use supported files from this public `.github` repository as account defaults when an owned repository lacks its own file of the same type.
 
@@ -52,4 +54,4 @@ Riverbraid-Core remains the normative source for protocol semantics. This reposi
 
 ## Non-claims
 
-This repository does not claim certification, production readiness, external audit, legal approval, complete AI safety, absolute security, adoption, profile-rendering completeness, account-wide template inheritance, or absence of defects.
+This repository does not claim certification, production readiness, external audit, legal approval, complete AI safety, absolute security, adoption, profile-rendering completeness, account-wide template inheritance, account-wide support, or absence of defects.
