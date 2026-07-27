@@ -1,8 +1,4 @@
-# Riverbraid profile candidate
-
-> **Account-surface note:** `Riverbraid` is currently a GitHub user account. GitHub's `profile/README.md` convention applies to organizations, so this file is a maintained organization-profile candidate and repository documentation surface. It is not evidence that this content currently renders on the Riverbraid user profile.
-
-## Riverbraid: A Deterministic Integrity Floor for AI Governance
+# Riverbraid: A Deterministic Integrity Floor for AI Governance
 
 Riverbraid is an open source verification floor for making structure, authority, and drift visible before trust is granted.
 
@@ -23,6 +19,6 @@ Riverbraid is an open source verification floor for making structure, authority,
 > [!IMPORTANT]
 > Riverbraid does not claim certification, legal approval, production readiness, external audit, complete AI safety, absolute security, or absence of defects.
 
-## Intended public route
+## Public route
 
 Profile → Evaluation Kit → Documentation → Core or domain repository as needed.

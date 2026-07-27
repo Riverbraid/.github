@@ -1,68 +1,64 @@
 # Riverbraid Support
 
-This document describes support routes for Riverbraid public repositories.
+Riverbraid is an open-source public-good project with bounded maintenance capacity.
 
-It is a community health surface only. It does not create guaranteed response times, staffed support operations, production support, legal support, certification, external audit, or security hardening claims.
+This file routes questions and reports. It does not guarantee response time, resolution, compatibility, deployment support, security operations, or continued maintenance.
 
-## Start here
+## Where to start
 
-For first-time technical inspection, start with:
+- Public evaluation or reproduction question: `Riverbraid-Evaluation-Kit`
+- Protocol terminology or Core audit behavior: `Riverbraid-Core`
+- Repository classification, lifecycle, or coordination: `Riverbraid-Golds`
+- Documentation, claim-boundary, or source-custody question: `Riverbraid-Documentation`
+- Repository-specific defect: the affected repository
 
-```text
-Riverbraid-Evaluation-Kit
-```
+## Before opening an issue
 
-For explanatory documentation, claim boundaries, roadmap surfaces, and audit inventory, use:
+Include only information necessary to understand the observed problem:
 
-```text
-Riverbraid-Documentation
-```
+- repository and exact commit or ref;
+- operating system and runtime versions;
+- command performed;
+- observed output;
+- expected output;
+- whether the issue concerns code, documentation, workflow, registry, environment, evidence, or public claims;
+- whether the report contains sensitive information.
 
-For protocol authority and core audit behavior, use:
+Do not place secrets, credentials, private keys, personal data, or unredacted vulnerability details in a public issue.
 
-```text
-Riverbraid-Core
-```
+## Supported question types
 
-## Where to open issues
+Useful public issues include:
 
-Open an issue in the repository most directly affected.
+- reproducible verifier failures;
+- mismatches between documentation and source;
+- missing or ambiguous claim boundaries;
+- broken public evaluation instructions;
+- repository classification errors;
+- evidence attribution problems;
+- bounded proposals for clearer public operation.
 
-Use `Riverbraid-Documentation` when the issue concerns:
+## Out of scope
 
-- public explanation
-- claim boundaries
-- roadmap surfaces
-- evidence classification
-- readiness matrix fields
-- documentation consistency
+Riverbraid does not provide guaranteed:
 
-Use `Riverbraid-Evaluation-Kit` when the issue concerns:
+- production deployment support;
+- legal or regulatory advice;
+- certification;
+- security monitoring or emergency response;
+- custom integration engineering;
+- recovery of lost credentials or data;
+- validation of downstream AI behavior;
+- support for forks or materially changed adaptations.
 
-- reproduction path
-- registry snapshot
-- Evaluation Kit workflow behavior
-- expected results
-- verifier command classification
+## Security reports
 
-Use `Riverbraid-Core` when the issue concerns:
+Follow `SECURITY.md`. Do not publish exploit details or secrets in a public issue.
 
-- protocol authority
-- core audit behavior
-- canonical verifier rules
-- byte audit behavior
+## F0–F4 questions
 
-## What to include
-
-Include:
-
-- repository name
-- affected file or workflow
-- observed behavior
-- expected behavior
-- reproduction steps if available
-- whether the issue affects documentation, verification, registry state, workflow behavior, release state, or public claims
+The F0–F4 control package remains proposed until an attributable adoption act occurs. General questions, planning, file discovery, or byte comparison do not constitute adoption, execution, or gate advancement.
 
 ## Boundary
 
-This support document does not claim that Riverbraid provides enterprise support, emergency response, security response SLAs, production support, legal advice, compliance certification, external audit, or guaranteed maintenance capacity.
+This support document does not claim enterprise support, security-response service levels, production support, external audit, guaranteed maintenance capacity, adoption, or absence of defects.
