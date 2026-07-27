@@ -61,7 +61,7 @@ requireText("profile/README.md", profileCandidate, "user account");
 
 const governance = files.get("GOVERNANCE.md");
 requireText("GOVERNANCE.md", governance, "Founder-led, evidence-constrained, forkable");
-requireText("GOVERNANCE.md", governance, "does not silently adopt");
+requireText("GOVERNANCE.md", governance, "silently adopt the F0–F4 control package");
 requireText("GOVERNANCE.md", governance, "No decision may be upgraded merely to satisfy a schedule");
 
 const maintainers = files.get("MAINTAINERS.md");
