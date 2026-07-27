@@ -13,7 +13,7 @@ GitHub displays a personal profile README only from a public repository named ex
 
 The file `profile/README.md` in this `.github` repository is the organization-profile convention. Under the current user-account structure, it must be treated as a profile candidate and documentation surface, not as proof that the Riverbraid account profile renders that content.
 
-`USER_PROFILE_README_CANDIDATE.md` contains the clean candidate text for a future `Riverbraid/Riverbraid/README.md` if that repository is created manually.
+`USER_PROFILE_README_CANDIDATE.md` contains the clean candidate text for a future `Riverbraid/Riverbraid/README.md` if that repository is created manually. Issue #6 records that account-level action.
 
 ## Current public route
 
@@ -30,11 +30,20 @@ The intended future profile route is:
 Riverbraid user profile → Evaluation Kit → Documentation → Core or domain repository
 ```
 
-## Community health
+## Shared governance and community-health files
 
-Shared community-health files in this repository may provide default contribution and security-reporting guidance across public Riverbraid repositories where GitHub's user-owned repository behavior supports that inheritance.
+- `GOVERNANCE.md` — founder-led authority, decision classes, adoption, succession, and conflict boundaries.
+- `MAINTAINERS.md` — current authority map and CODEOWNERS deferral.
+- `CONTRIBUTING.md` — review posture, inbound rights, licensing, provenance, and issue guidance.
+- `FORKING.md` — fork identity, evidence continuity, and non-inherited claims.
+- `SECURITY.md` — fail-closed sensitive-reporting route and private-intake limitations.
+- `SUPPORT.md` — bounded routing and availability limits.
+- `CODE_OF_CONDUCT.md` — conduct expectations.
+- `.github/PULL_REQUEST_TEMPLATE.md` — evidence, authority, claim, rollback, and F0–F4 checks.
 
-Their presence does not prove that every repository inherits or displays every file. Per-repository coverage remains an inspectable policy and platform-behavior question.
+GitHub may use supported files from this public `.github` repository as account defaults when an owned repository lacks its own file of the same type.
+
+Per-repository files take precedence, and local issue-template directories may override account defaults. File presence here does not prove that every repository inherits, displays, or enforces every surface.
 
 ## Authority boundary
 
@@ -42,4 +51,4 @@ Riverbraid-Core remains the normative source for protocol semantics. This reposi
 
 ## Non-claims
 
-This repository does not claim certification, production readiness, external audit, legal approval, complete AI safety, absolute security, adoption, profile-rendering completeness, or absence of defects.
+This repository does not claim certification, production readiness, external audit, legal approval, complete AI safety, absolute security, adoption, profile-rendering completeness, account-wide template inheritance, or absence of defects.
