@@ -34,12 +34,13 @@ Riverbraid user profile → Evaluation Kit → Documentation → Core or domain 
 
 - `GOVERNANCE.md` — founder-led authority, decision classes, adoption, succession, and conflict boundaries.
 - `MAINTAINERS.md` — current authority map and CODEOWNERS deferral.
-- `CONTRIBUTING.md` — review posture, inbound rights, licensing, provenance, and issue guidance.
+- `CONTRIBUTING.md` — review posture and links to the dedicated rights policy.
+- `INBOUND_CONTRIBUTION_RIGHTS.md` — authorship, licensing, third-party material, generated content, and acceptance boundaries.
 - `FORKING.md` — fork identity, evidence continuity, and non-inherited claims.
 - `SECURITY.md` — fail-closed sensitive-reporting route and private-intake limitations.
 - `SUPPORT.md` — bounded routing and availability limits.
 - `CODE_OF_CONDUCT.md` — conduct expectations.
-- `.github/PULL_REQUEST_TEMPLATE.md` — evidence, authority, claim, rollback, and F0–F4 checks.
+- `PULL_REQUEST_TEMPLATE.md` — evidence, authority, claim, rollback, security, contributor-rights, and F0–F4 checks.
 
 GitHub may use supported files from this public `.github` repository as account defaults when an owned repository lacks its own file of the same type.
 
