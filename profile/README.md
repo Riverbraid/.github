@@ -1,21 +1,24 @@
-# Riverbraid: A Deterministic Integrity Floor for AI Governance
+# Riverbraid public navigation
 
-Riverbraid is an open source verification floor for making structure, authority, and drift visible before trust is granted.
+> Lifecycle: ACTIVE_ARCHITECTURAL_SURFACE  
+> Role: PUBLIC_ROUTING_AND_COMMUNITY_HEALTH  
+> Protocol authority: NONE  
+> Project authority: ROUTING_ONLY  
+> Runtime membership: EXCLUDED_AS_RUNTIME_COMPONENT
+
+Riverbraid is an open-source evidence fabric for preserving inspectable claims, evidence references, attributed relationship assertions, uncertainty, and legitimate interpretive divergence.
+
+Riverbraid does not decide truth, trust, evidentiary weight, legitimacy, risk, readiness, certification, moral priority, or the correct interpretation of evidence.
 
 ## Start here
 
-| Path | Repository | Purpose |
-|---|---|---|
-| 🚀 Start Here | [Riverbraid-Evaluation-Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit) | Run the public proof path. |
-| 📖 Read More | [Riverbraid-Documentation](https://github.com/Riverbraid/Riverbraid-Documentation) | Understand concepts, boundaries, and the system map. |
-| ⚖️ Protocol Source | [Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core) | Inspect the normative protocol source. |
-| 🧭 Registry | [Riverbraid-Golds](https://github.com/Riverbraid/Riverbraid-Golds) | See the coordinated repository surface. |
-| 🛡️ Safety Example | [Riverbraid-Safety-Gold](https://github.com/Riverbraid/Riverbraid-Safety-Gold) | Review a bounded safety verification surface. |
-| ✨ Visual Demo | [Riverbraid-Gold-V2](https://github.com/Riverbraid/Riverbraid-Gold-V2) | See the integrity concept visually. |
+- **Run the currently declared mechanical reproduction profile:** [Riverbraid-Evaluation-Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit)
+- **Understand the system and current public map:** [Riverbraid-Documentation](https://github.com/Riverbraid/Riverbraid-Documentation)
+- **Inspect the mechanical interoperability grammar:** [Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core)
+- **Inspect Riverbraid project decisions and lifecycle authority:** [Riverbraid-Governance](https://github.com/Riverbraid/Riverbraid-Governance)
 
-> [!IMPORTANT]
-> Riverbraid does not claim certification, legal approval, production readiness, external audit, complete AI safety, absolute security, or absence of defects.
+Five research repositories remain active but experimental and noncontrolling: Cognition, Gold-V2, Liminal-Monitoring, Wasm-Bridge, and Weave-Gold. They are excluded from the current mechanical reproduction profile.
 
-## Public route
+Forty-two older repositories are preserved as historical Riverbraid surfaces pending archive. Historical status is a project lifecycle statement, not a claim that their ideas are false or unimportant.
 
-Profile → Evaluation Kit → Documentation → Core or domain repository as needed.
+This `.github` repository provides community-health and routing material. The Riverbraid owner is currently a GitHub User account, so this file is not relied on as the sole account-level public entrance.
